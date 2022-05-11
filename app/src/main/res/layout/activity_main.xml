@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillViewport="true"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="ScrollView sangat penting sekali untuk pengembangan aplikasi android, hampi semua aplikasi yang di kembangkan menggunakan ScrollView. Didalam Android Studio terdapat beberapa jenis ScrollView, yaitu ScrollView Vertikal, HorizontalScrollView dan Nested ScrollView (ScrollView bersarang).Tetapi disini kita hanya akan membahas mengenai penggunaan ScrollView secara vertikal saja, untuk komponen layout didalam activity. Penjelasan lebih lanju mengenai jenis ScrollView lainnya akan saya dibahas di postingan berikutnya.Belajar Cara Membuat ScrollView di Android Studio1) Buka aplikasi Android Studio kalian, buat project baru.2) Pada contoh program berikut ini, misalnya kita ingin membuat sebuah teks panjang menggunakan widget TextView dan sebuah Button dibawahnya.Untuk membuat teks yang panjang tersebut kita akan menggunakan data String didalam file string.xml, buka folder res > values > string.xml. Disini kalian buat variable string baru yang isinya teks panjang, misalnya seperti berikut ini."
+        >
+
+    </TextView>
+
+</ScrollView>
